@@ -1,0 +1,28 @@
+C:\Users\jiaxy\Documents\Visual Studio 2013\Projects\ClassLibrary1\CourseExample.Winform\obj\Debug\CourseExample.Winform.csprojResolveAssemblyReference.cache
+C:\Users\jiaxy\Documents\Visual Studio 2013\Projects\ClassLibrary1\CourseExample.Winform\obj\Debug\CourseExample.Winform.EditForm.resources
+C:\Users\jiaxy\Documents\Visual Studio 2013\Projects\ClassLibrary1\CourseExample.Winform\obj\Debug\CourseExample.Winform.MainForm.resources
+C:\Users\jiaxy\Documents\Visual Studio 2013\Projects\ClassLibrary1\CourseExample.Winform\obj\Debug\CourseExample.Winform.Properties.Resources.resources
+C:\Users\jiaxy\Documents\Visual Studio 2013\Projects\ClassLibrary1\CourseExample.Winform\obj\Debug\CourseExample.Winform.csproj.GenerateResource.Cache
+C:\Users\jiaxy\Documents\Visual Studio 2013\Projects\ClassLibrary1\CourseExample.Winform\bin\Debug\CourseExample.Winform.exe.config
+C:\Users\jiaxy\Documents\Visual Studio 2013\Projects\ClassLibrary1\CourseExample.Winform\bin\Debug\CourseExample.Winform.exe
+C:\Users\jiaxy\Documents\Visual Studio 2013\Projects\ClassLibrary1\CourseExample.Winform\bin\Debug\CourseExample.Winform.pdb
+C:\Users\jiaxy\Documents\Visual Studio 2013\Projects\ClassLibrary1\CourseExample.Winform\bin\Debug\ClassLibrary1.dll
+C:\Users\jiaxy\Documents\Visual Studio 2013\Projects\ClassLibrary1\CourseExample.Winform\bin\Debug\whc.pager.wincontrol.dll
+C:\Users\jiaxy\Documents\Visual Studio 2013\Projects\ClassLibrary1\CourseExample.Winform\bin\Debug\WHC.Pager.Entity.dll
+C:\Users\jiaxy\Documents\Visual Studio 2013\Projects\ClassLibrary1\CourseExample.Winform\bin\Debug\Aspose.Cells.dll
+C:\Users\jiaxy\Documents\Visual Studio 2013\Projects\ClassLibrary1\CourseExample.Winform\bin\Debug\ClassLibrary1.pdb
+C:\Users\jiaxy\Documents\Visual Studio 2013\Projects\ClassLibrary1\CourseExample.Winform\obj\Debug\CourseExample.Winform.exe
+C:\Users\jiaxy\Documents\Visual Studio 2013\Projects\ClassLibrary1\CourseExample.Winform\obj\Debug\CourseExample.Winform.pdb
+E:\c#ppt\OrderAppExample\CourseExample.Winform\bin\Debug\CourseExample.Winform.exe.config
+E:\c#ppt\OrderAppExample\CourseExample.Winform\obj\Debug\CourseExample.Winform.exe
+E:\c#ppt\OrderAppExample\CourseExample.Winform\obj\Debug\CourseExample.Winform.pdb
+E:\c#ppt\OrderAppExample\CourseExample.Winform\obj\Debug\CourseExample.Winform.csprojResolveAssemblyReference.cache
+E:\c#ppt\OrderAppExample\CourseExample.Winform\obj\Debug\CourseExample.Winform.MainForm.resources
+E:\c#ppt\OrderAppExample\CourseExample.Winform\obj\Debug\CourseExample.Winform.Properties.Resources.resources
+E:\c#ppt\OrderAppExample\CourseExample.Winform\obj\Debug\CourseExample.Winform.csproj.GenerateResource.Cache
+E:\c#ppt\OrderAppExample\CourseExample.Winform\bin\Debug\CourseExample.Winform.exe
+E:\c#ppt\OrderAppExample\CourseExample.Winform\bin\Debug\CourseExample.Winform.pdb
+E:\c#ppt\OrderAppExample\CourseExample.Winform\bin\Debug\ClassLibrary1.dll
+E:\c#ppt\OrderAppExample\CourseExample.Winform\bin\Debug\WHC.Pager.Entity.dll
+E:\c#ppt\OrderAppExample\CourseExample.Winform\bin\Debug\Aspose.Cells.dll
+E:\c#ppt\OrderAppExample\CourseExample.Winform\bin\Debug\ClassLibrary1.pdb

@@ -1,0 +1,10 @@
+c:\users\jiaxy\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\EFExample.Entity.csprojResolveAssemblyReference.cache
+c:\users\jiaxy\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+c:\users\jiaxy\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+c:\users\jiaxy\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+c:\users\jiaxy\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\EntityFramework.dll
+c:\users\jiaxy\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\jiaxy\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\EntityFramework.xml
+c:\users\jiaxy\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\jiaxy\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+c:\users\jiaxy\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

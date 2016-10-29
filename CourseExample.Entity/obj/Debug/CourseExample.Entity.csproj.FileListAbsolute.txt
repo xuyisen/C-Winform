@@ -1,0 +1,20 @@
+C:\Users\jiaxy\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\jiaxy\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\jiaxy\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\jiaxy\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\jiaxy\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jiaxy\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\jiaxy\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jiaxy\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\jiaxy\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\jiaxy\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\CourseExample.Entity.csprojResolveAssemblyReference.cache
+E:\c#ppt\OrderAppExample\CourseExample.Entity\bin\Debug\ClassLibrary1.dll.config
+E:\c#ppt\OrderAppExample\CourseExample.Entity\bin\Debug\ClassLibrary1.dll
+E:\c#ppt\OrderAppExample\CourseExample.Entity\bin\Debug\ClassLibrary1.pdb
+E:\c#ppt\OrderAppExample\CourseExample.Entity\bin\Debug\EntityFramework.dll
+E:\c#ppt\OrderAppExample\CourseExample.Entity\bin\Debug\EntityFramework.SqlServer.dll
+E:\c#ppt\OrderAppExample\CourseExample.Entity\bin\Debug\EntityFramework.xml
+E:\c#ppt\OrderAppExample\CourseExample.Entity\bin\Debug\EntityFramework.SqlServer.xml
+E:\c#ppt\OrderAppExample\CourseExample.Entity\obj\Debug\CourseExample.Entity.csprojResolveAssemblyReference.cache
+E:\c#ppt\OrderAppExample\CourseExample.Entity\obj\Debug\ClassLibrary1.dll
+E:\c#ppt\OrderAppExample\CourseExample.Entity\obj\Debug\ClassLibrary1.pdb

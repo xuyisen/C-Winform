@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseExample.Entity", "CourseExample.Entity\CourseExample.Entity.csproj", "{99B4E70F-DB48-4A80-8953-7F98488FBEA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerManagement.Winform", "..\..\QQ文件\CourseExample6\CourseExample6\CustomerManagement.Winform.csproj", "{062F5BAC-7A82-4D69-A334-81AFDD33BC3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99B4E70F-DB48-4A80-8953-7F98488FBEA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B4E70F-DB48-4A80-8953-7F98488FBEA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B4E70F-DB48-4A80-8953-7F98488FBEA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B4E70F-DB48-4A80-8953-7F98488FBEA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{062F5BAC-7A82-4D69-A334-81AFDD33BC3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062F5BAC-7A82-4D69-A334-81AFDD33BC3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062F5BAC-7A82-4D69-A334-81AFDD33BC3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062F5BAC-7A82-4D69-A334-81AFDD33BC3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
